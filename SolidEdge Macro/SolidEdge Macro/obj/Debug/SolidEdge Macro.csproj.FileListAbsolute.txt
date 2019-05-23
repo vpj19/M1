@@ -1,0 +1,19 @@
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\bin\Debug\SolidEdge Macro.exe.config
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\bin\Debug\SolidEdge Macro.exe
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\bin\Debug\SolidEdge Macro.pdb
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.csprojAssemblyReference.cache
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge_Macro.Form1.resources
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge_Macro.Properties.Resources.resources
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.csproj.GenerateResource.cache
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.exe
+C:\Users\Shubham Misal\Documents\Visual Studio 2019\Projects\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.pdb
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\bin\Debug\SolidEdge Macro.exe.config
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.exe
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.pdb
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\bin\Debug\SolidEdge Macro.exe
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\bin\Debug\SolidEdge Macro.pdb
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.csprojResolveAssemblyReference.cache
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge_Macro.Form1.resources
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge_Macro.Properties.Resources.resources
+F:\Solid Edge Work\Macro2\SolidEdge Macro\SolidEdge Macro\obj\Debug\SolidEdge Macro.csproj.GenerateResource.Cache
